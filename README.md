@@ -33,3 +33,8 @@ using the medical history of the patient.</li>
 
 
 [Project 2: Covid-19 Exploratory Analysis : Project Overview](https://github.com/ROSINA365/covid-19-analysis)
+<ul>
+ <li>Perfomed exploratory analysis on Covid-19 from a dataset acquired from Kaggle</li>
+ <li>Main aim was to relate different variables with one another to see the linear relationship they have</li>
+
+</ul>
