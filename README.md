@@ -11,7 +11,7 @@ using the medical history of the patient.</li>
 
  </ul>.
 
-![](/Images/scatter%20plot.png)
+![](/Images/Bar Chart.png)
 
 <p> From the above Bar Chart we can observe that there are more cases of patients getting heart disease through the variable target.</p> 
 <p> These are Resting Blood Pressure, Chest Pain, Fasting Blood Sugar etc </p>
