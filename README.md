@@ -59,4 +59,12 @@ using the medical history of the patient.</li>
 
 
 <h3>The below analysis shows the whole picture of the dataset with relationship between each other</h3>
-![](
+![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/all.png)
+
+<p>As a data analyst I can draw 3 major conclusions from the above analysis</p>
+<ul>
+<li>The people are increasing in recovering comparing to the number of total cases.</li>
+<li>We need to work on flattening the curve on the number of total cases, so that to reduce the number of patients in hospitals</li>
+<li>The number of deaths are also increasing with the total cases received.</li>
+</ul>
+
