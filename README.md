@@ -41,7 +41,7 @@ using the medical history of the patient.</li>
 
 <h4>Plotting Total Cases and the number of patients that have recovered.</h4>
 ![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/linear%20relationship.png)
-![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/boxplot1.png)
+
 
 
 <p>The above is a linear relationship</p>
@@ -69,3 +69,4 @@ using the medical history of the patient.</li>
 <li>The number of deaths are also increasing with the total cases received.</li>
 </ul>
 
+[Project 3: Covid-19 Exploratory Analysis : Project Overview](https://github.com/ROSINA365/covid-19-analysis)
