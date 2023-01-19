@@ -52,3 +52,7 @@ using the medical history of the patient.</li>
  <p>the hue parameter determines which column in the data frame should be used for colour encoding</p>
  
 ![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/linear.png)
+
+<p> The above plot shows the total_confirmed_cases as the independent variable, "hospitalized_with_symptoms" as the target variable and
+ categorizing with the patients that have "recovered" which gives the hue.</p>
+ <p>From the above we can draw the conclusion that The number of people who had recovered is increasin at a rapid rate.</p>
