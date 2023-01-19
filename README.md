@@ -38,4 +38,6 @@ using the medical history of the patient.</li>
  <li>Main aim was to relate different variables with one another to see the linear relationship they have</li>
 
 </ul>
+
+![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/boxplot1.png)
 ![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/linear%20relationship.png)
