@@ -12,3 +12,6 @@ using the medical history of the patient.</li>
  </ul>.
 
 ![](/Images/https://github.com/ROSINA365/My_Portfolio/blob/main/Images/Bar%20Chart.png)
+
+## From the above Bar Chart we can observe that there are more cases of patients getting heart disease through the variable target. 
+## These are Resting Blood Pressure, Chest Pain, Fasting Blood Sugar etc.
