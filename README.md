@@ -30,3 +30,6 @@ using the medical history of the patient.</li>
  Using Box Plot to compare Blood Pressure with Chest Pain on the basis of Sex.</P>
  
 <p>from the above box plot we can see that the male experience the highest blood pressure when they get the ATYPICAL ANGINE chest pain compared to women</p>
+
+
+[Project 2: Covid-19 Exploratory Analysis : Project Overview](https://github.com/ROSINA365/covid-19-analysis)
