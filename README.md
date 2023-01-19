@@ -14,4 +14,7 @@ using the medical history of the patient.</li>
 ![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/Bar%20Chart.png)
 
 <p> From the above Bar Chart we can observe that there are more cases of patients getting heart disease through the variable target.</p> 
-<p> These are Resting Blood Pressure, Chest Pain, Fasting Blood Sugar etc </p>
+<p> These variable targets are Resting Blood Pressure, Chest Pain, Fasting Blood Sugar , sex and age group of the patients. </p>
+
+<h4>The Histogram below shows the risk of heart disease basing on the age of the patient.</h4>
+![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/Bar%20Chart.png)
