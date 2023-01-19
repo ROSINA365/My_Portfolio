@@ -13,9 +13,13 @@ using the medical history of the patient.</li>
 
 ![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/Bar%20Chart.png)
 
-<p> From the above Bar Chart we can observe that there are more cases of patients getting heart disease through the variable target.</p> 
+<p> From the above Bar Chart we can observe the total number of patients having or not having Heart
+ Disease. 
+ Conclusion form the above observation is that there are more cases of patients getting heart disease through the variable target.</p> 
 <p> These variable targets are Resting Blood Pressure, Chest Pain, Fasting Blood Sugar , sex and age group of the patients. </p>
 
 <h4>The Histogram below shows the risk of heart disease basing on the age of the patient.</h4>
 
 ![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/Histogram.png)
+From the observation, many people are from the age of 55 to 60 are at a high risk of getting the heart disease compared to the younger ages.
+
