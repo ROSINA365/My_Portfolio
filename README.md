@@ -17,4 +17,5 @@ using the medical history of the patient.</li>
 <p> These variable targets are Resting Blood Pressure, Chest Pain, Fasting Blood Sugar , sex and age group of the patients. </p>
 
 <h4>The Histogram below shows the risk of heart disease basing on the age of the patient.</h4>
-![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/Bar%20Chart.png)
+
+![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/Histogram.png)
