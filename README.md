@@ -9,5 +9,6 @@ likely to have a heart disease based on various medical attributes. </li>
 using the medical history of the patient.</li>
 <li>Used different R programming libraries such as ggplot, corrplot, and Tidyverse which is R package for data science.</li>
 
-  
-</ul>.
+ </ul>.
+
+![](/Images/scatter%20plot.png)
