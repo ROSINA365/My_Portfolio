@@ -56,3 +56,7 @@ using the medical history of the patient.</li>
 <p> The above plot shows the total_confirmed_cases as the independent variable, "hospitalized_with_symptoms" as the target variable and
  categorizing with the patients that have "recovered" which gives the hue.</p>
  <p>From the above we can draw the conclusion that The number of people who had recovered is increasin at a rapid rate.</p>
+
+
+<h3>The below analysis shows the whole picture of the dataset with relationship between each other</h3>
+![](
