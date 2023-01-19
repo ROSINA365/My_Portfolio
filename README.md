@@ -48,3 +48,4 @@ using the medical history of the patient.</li>
  <p>On this scatter plot I use a hue effect</p>
  <p>the hue parameter determines which column in the data frame should be used for colour encoding</p>
  
+![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/linear.png)
