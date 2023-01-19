@@ -38,6 +38,13 @@ using the medical history of the patient.</li>
  <li>Main aim was to relate different variables with one another to see the linear relationship they have</li>
 
 </ul>
-
-![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/boxplot1.png)
+<h4>Plotting Total Cases and the number of patients that have recovered.</h4>
 ![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/linear%20relationship.png)
+
+<p>The above is a linear relationship</p>
+<p>It shows how people have recovered comparing with the total number of cases. 
+ The more cases, ie 200000 cases over 80000 people have recovered.</p>
+ 
+ <p>On this scatter plot I use a hue effect</p>
+ <p>the hue parameter determines which column in the data frame should be used for colour encoding</p>
+ 
