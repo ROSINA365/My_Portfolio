@@ -21,5 +21,8 @@ using the medical history of the patient.</li>
 <h4>The Histogram below shows the risk of heart disease basing on the age of the patient.</h4>
 
 ![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/Histogram.png)
-From the observation, many people are from the age of 55 to 60 are at a high risk of getting the heart disease compared to the younger ages.
+<p>From the observation, many people are from the age of 55 to 60 are at a high risk of getting the heart disease compared to the younger ages.<p>
+ 
+ <h4>Patients having High Blood Pressure on the basis of Sex.</h4>
+ 
 
