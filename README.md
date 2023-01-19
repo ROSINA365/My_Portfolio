@@ -25,7 +25,7 @@ using the medical history of the patient.</li>
  
  <h4>Patients having High Blood Pressure on the basis of Sex.</h4>
 
- ![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/Histogram.png)
+ ![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/boxplot1.png)
  <p>
  Using Box Plot to compare Blood Pressure with Chest Pain on the basis of Sex.</P>
  
