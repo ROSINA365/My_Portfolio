@@ -11,4 +11,4 @@ using the medical history of the patient.</li>
 
  </ul>.
 
-![](/Images/scatter%20plot.png)
+![](/Images/https://github.com/ROSINA365/My_Portfolio/blob/main/Images/Bar%20Chart.png)
