@@ -73,3 +73,9 @@ using the medical history of the patient.</li>
 <h3>Canadian Immigration dataset</h3>
 <p> Using the above dataset to visualize the top 5 countries that contribued the most immigrants to Canada from 1980 to 2013.
 With a little modification to the code, we can visualize this plot as a cumulative plot, also knows as a Stacked Line Plot or Area plot.</p>
+<ul>
+ <li>Area plots are stacked by default</li>
+ <li>To produce a stacked area plot, each column must be either all positive or all negative values</li>
+ <li>(any NaN, i.e. not a number, values will default to 0). To produce an unstacked plot, set parameter stacked to value False.</li>
+</ul>
+ 
