@@ -41,10 +41,6 @@ using the medical history of the patient.</li>
 
 <h4>Plotting Total Cases and the number of patients that have recovered.</h4>
 ![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/linear%20relationship.png)
-added images
-![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/linear%20relationship.png)
-
-
 
 <p>The above is a linear relationship</p>
 
