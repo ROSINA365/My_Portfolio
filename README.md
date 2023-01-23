@@ -75,5 +75,7 @@ With a little modification to the code, we can visualize this plot as a cumulati
  <li>Area plots are stacked by default</li>
  <li>To produce a stacked area plot, each column must be either all positive or all negative values</li>
  <li>(any NaN, i.e. not a number, values will default to 0). To produce an unstacked plot, set parameter stacked to value False.</li>
+ 
 </ul>
+![](https://github.com/ROSINA365/My_Portfolio/blob/main/Images/Area%20Plot.png)
  
